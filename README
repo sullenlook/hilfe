@@ -1,0 +1,11 @@
+HILFE PLUGIN IN DEUTSCH
+
+Sag einfach "Hilfe Befehle" und Siri sagt Dir alle verfügbaren Befehle an.
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "hilfe" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "hilfe" in plugins.conf ein
+
+FERTIG
