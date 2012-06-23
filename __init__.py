@@ -36,7 +36,7 @@ class help(Plugin):
     @register("en-US", "(Help)|(Commands)")
     def st_hello(self, speech, language):
         if language == 'de-DE':
-            self.say("Das sind die Befehle die in Deiner Sprache verfügbar sind:")
+            self.say("Das sind die Befehle die in Deiner Sprache verfuegbar sind:")
             self.say("".join(tline_answer_de ),' ')
         else:
             self.say("Here are the command which are possible in your language:")
